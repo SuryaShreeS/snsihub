@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Headphones",
+        "description": "High-quality over-ear headphones with noise cancellation and up to 30 hours of battery life.",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ4LAWMId-eBMJaG4VLbUBGj_GnEqkmzzDEZT9ISv5dJUyBRdxwCXgOSnqYK1OVNTT2hQzEWaCyHyPFZytgIFto0NZLj1ucQB3Y08ViydbgvkyWSEX7NODW",
+        "originalPrice": 150,
+        "discountPrice": 120,
+        "sellingPrice": 120,
+        "quantity": 50,
+        "uom": "pcs",
+        "hsnCode": "8518"
+    },
+    {
+        "id": 2,
+        "name": "Bluetooth Speaker",
+        "description": "Portable Bluetooth speaker with rich sound and deep bass, waterproof and ideal for outdoor use.",
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQCZLxn015_QPq0OH-xuv8YGRVkF48dSrYnOHRzNg2iJphhk7B_uOkmSff0ZiVEYMjVvliyV-Ig_UST1NTw3glN8xoOZuCDqrzWNTfmJ94Yiw7bT2ybpDFJArqHLyDl6G5yg7j7kWvugoTM&usqp=CAc",
+        "originalPrice": 80,
+        "discountPrice": 60,
+        "sellingPrice": 60,
+        "quantity": 100,
+        "uom": "pcs",
+        "hsnCode": "8518"
+    },
+    {
+        "id": 3,
+        "name": "Smartwatch",
+        "description": "Feature-packed smartwatch with fitness tracking, heart rate monitoring, and customizable watch faces.",
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT_TDGViH-GhXtpyYNjgfAb-u12rsPURIVKju2l-qNZwjV3KkH80Q3L2ANCMMX25qTwA17KZRvMztYg1no1wuRCeBJqsO83w0JI-D3ZKWNUfjGx40358D53w9LtgcoEqbtLEeFnGdQOHw&usqp=CAc",
+        "originalPrice": 250,
+        "discountPrice": 200,
+        "sellingPrice": 200,
+        "quantity": 30,
+        "uom": "pcs",
+        "hsnCode": "9102"
+    },
+    {
+        "id": 4,
+        "name": "Laptop Stand",
+        "description": "Ergonomic laptop stand with adjustable height and angle for comfortable viewing.",
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR9DOzMDBr82scq-TTFYEZWzDXojCl9v2_xTCtgPpuC9iJnSBQmqdVj2ZMDzv4ujAvbQDzJr1TOjzVj0uNKqC7LtU8BvtvdgxjW7MilwE36nJjouGbQ69zEixFZHNsTyg&usqp=CAc",
+        "originalPrice": 30,
+        "discountPrice": 25,
+        "sellingPrice": 25,
+        "quantity": 150,
+        "uom": "pcs",
+        "hsnCode": "8471"
+    },
+    {
+        "id": 5,
+        "name": "Wireless Mouse",
+        "description": "Ergonomic wireless mouse with customizable buttons and long battery life.",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTW7-oKryBazJG-LVPC133T_rEzZEfC8mJxiCMpWniUpNPeundoG7QkGEwMiFGhXwKTplFxP6MEGzbpQqK4q497tdnqKhqKcberB-fTsc-hotJfBONJ2ItQ1g",
+        "originalPrice": 25,
+        "discountPrice": 20,
+        "sellingPrice": 20,
+        "quantity": 80,
+        "uom": "pcs",
+        "hsnCode": "8471"
+    },
+    {
+        "id": 6,
+        "name": "Portable Charger",
+        "description": "High-capacity portable charger with fast charging capabilities for all devices.",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRq8HGvA8ZHU4xQpstirvzsYAu32F4tkkW1rQs3y5rprWZ2mR44wOtIkAFryODj0vBqlZZFAf4Dfcpknx_GYrCWkZrOuh6q0klQrPdN3MiP9uFKxWvS120EMWI4XLGcFFCzDLRbid4&usqp=CAc",
+        "originalPrice": 40,
+        "discountPrice": 30,
+        "sellingPrice": 30,
+        "quantity": 60,
+        "uom": "pcs",
+        "hsnCode": "8507"
+    },
+    {
+        "id": 7,
+        "name": "HD Webcam",
+        "description": "1080p HD webcam with built-in microphone and adjustable clip for easy mounting.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQx0afPeGo1pUvwadl1JimgAT6ZWou6iqBrA&s",
+        "originalPrice": 60,
+        "discountPrice": 50,
+        "sellingPrice": 50,
+        "quantity": 40,
+        "uom": "pcs",
+        "hsnCode": "8517"
+    },
+    {
+        "id": 8,
+        "name": "Smart LED TV",
+        "description": "55-inch Smart LED TV with 4K resolution and built-in streaming apps.",
+        "image": "data:image/webp;base64,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",
+        "originalPrice": 800,
+        "discountPrice": 700,
+        "sellingPrice": 700,
+        "quantity": 20,
+        "uom": "pcs",
+        "hsnCode": "8528"
+    }
+]
